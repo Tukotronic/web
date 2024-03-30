@@ -1,0 +1,44 @@
+<svg id="Group_1777" data-name="Group 1777" xmlns="http://www.w3.org/2000/svg" width="1478.616" height="809.423" viewBox="0 0 1478.616 809.423">
+  <style>
+    #Group_1772 {
+      animation: star 2s alternate infinite ease-in;
+    }
+    #Group_1773 {
+      animation: star 2.5s alternate infinite ease-in;
+    }
+    #Group_1774 {
+      animation: star 3.5s alternate infinite ease-in;
+    }
+    #Group_1775 {
+      animation: star 4.5s alternate infinite ease-in;
+    }
+    #Group_1776 {
+      animation: star 1.5s alternate infinite ease-in;
+    }
+    @keyframes star {
+      0%   {opacity: 0;}
+      50%   {opacity: 1;}
+      100% {opacity: 0;}
+    }
+  </style>
+  <g id="Group_1772" data-name="Group 1772" transform="translate(269.486 142.636)">
+    <path id="Path_1258" data-name="Path 1258" d="M202.111,123.967c2.6,0,4.706,37.186,4.706,83.058s-2.108,83.061-4.706,83.061S197.4,252.9,197.4,207.025,199.51,123.967,202.111,123.967Z" transform="translate(-119.051 -123.967)" fill="#edad1c" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+    <path id="Path_1259" data-name="Path 1259" d="M170.266,155.809c0-2.6,37.186-4.706,83.061-4.706s83.058,2.108,83.058,4.706-37.186,4.709-83.058,4.709S170.266,158.411,170.266,155.809Z" transform="translate(-170.266 -72.752)" fill="#edad1c" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+  </g>
+  <g id="Group_1773" data-name="Group 1773" transform="translate(0 616.163)">
+    <path id="Path_1260" data-name="Path 1260" d="M99.183,287.967c1.816,0,3.289,25.983,3.289,58.036S101,404.036,99.183,404.036,95.894,378.055,95.894,346,97.367,287.967,99.183,287.967Z" transform="translate(-41.147 -287.967)" fill="#edad1c" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+    <ellipse id="Ellipse_106" data-name="Ellipse 106" cx="58.035" cy="3.289" rx="58.035" ry="3.289" transform="translate(0 54.746)" fill="#edad1c" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+  </g>
+  <g id="Group_1774" data-name="Group 1774" transform="translate(1135.5 739.164)">
+    <ellipse id="Ellipse_107" data-name="Ellipse 107" cx="1.991" cy="35.13" rx="1.991" ry="35.13" transform="translate(33.14 0)" fill="#edad1c" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+    <path id="Path_1261" data-name="Path 1261" d="M470.2,344.033c0-1.1,15.73-1.989,35.13-1.989s35.13.892,35.13,1.989-15.727,1.992-35.13,1.992S470.2,345.134,470.2,344.033Z" transform="translate(-470.199 -308.905)" fill="#edad1c" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+  </g>
+  <g id="Group_1775" data-name="Group 1775" transform="translate(1408.355 401.343)">
+    <ellipse id="Ellipse_108" data-name="Ellipse 108" cx="1.991" cy="35.13" rx="1.991" ry="35.13" transform="translate(33.14)" fill="#edad1c" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+    <path id="Path_1262" data-name="Path 1262" d="M564.7,227.033c0-1.1,15.73-1.989,35.131-1.989s35.13.892,35.13,1.989-15.728,1.992-35.13,1.992S564.7,228.133,564.7,227.033Z" transform="translate(-564.699 -191.905)" fill="#edad1c" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+  </g>
+  <g id="Group_1776" data-name="Group 1776" transform="translate(865.532)">
+    <ellipse id="Ellipse_109" data-name="Ellipse 109" cx="1.991" cy="35.13" rx="1.991" ry="35.13" transform="translate(33.14)" fill="#edad1c" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+    <path id="Path_1263" data-name="Path 1263" d="M376.7,88.033c0-1.1,15.73-1.989,35.13-1.989s35.13.892,35.13,1.989-15.727,1.992-35.13,1.992S376.7,89.133,376.7,88.033Z" transform="translate(-376.699 -52.905)" fill="#edad1c" style="mix-blend-mode: color-dodge;isolation: isolate"/>
+  </g>
+</svg>
